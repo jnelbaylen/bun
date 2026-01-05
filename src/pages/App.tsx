@@ -1,8 +1,8 @@
 import { APITester } from "../api/APITester";
-import "./index.css";
+import "../styles/index.css";
 
-import logo from "./logo.svg";
-import reactLogo from "./react.svg";
+import logo from "public/logo.svg";
+import reactLogo from "../assets/react.svg";
 
 export function App() {
   return (
